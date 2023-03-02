@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/delta-netflix/static/css/main.fac16811.css",
+    "main.js": "/delta-netflix/static/js/main.f8698502.js",
+    "static/js/787.39166960.chunk.js": "/delta-netflix/static/js/787.39166960.chunk.js",
+    "index.html": "/delta-netflix/index.html",
+    "main.fac16811.css.map": "/delta-netflix/static/css/main.fac16811.css.map",
+    "main.f8698502.js.map": "/delta-netflix/static/js/main.f8698502.js.map",
+    "787.39166960.chunk.js.map": "/delta-netflix/static/js/787.39166960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac16811.css",
+    "static/js/main.f8698502.js"
+  ]
+}
